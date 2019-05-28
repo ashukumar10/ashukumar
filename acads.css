@@ -1,0 +1,15 @@
+.tm-acads{
+     padding-left: 300px;
+     padding-top: 180px;
+     color: #efefd7;
+     
+
+}
+body{
+	 background-image: url(../images/acads.jpg);
+     background-size: cover;
+
+}
+h1{
+	font-size: 40px;
+}

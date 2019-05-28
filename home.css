@@ -1,0 +1,15 @@
+h1{
+	padding-top: 250px;
+	padding-left:600px;
+	font-size: 50px;
+	color: #2e6621;
+}
+h2{
+	padding-left: 410px;
+	font-size: 40px;
+	color: #2e6621;
+}
+body{
+	background-image: url(../images/home.jpg);
+	background-size: cover;
+}

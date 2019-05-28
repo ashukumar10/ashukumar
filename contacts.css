@@ -1,0 +1,57 @@
+.circle-img{
+	border-radius:50%;
+	max-width: 20%;
+	min-height: 20%;
+   
+}
+.tm-contact{
+	 padding-left: 600px;
+    padding-right: 600px%;
+    padding-top: 150px;
+ 
+	
+}
+h1{
+	padding-left: 595px;
+	padding-top: 10px;
+}
+.social-media ul li a{
+	padding: 10px 20px; 
+	text-decoration: none;
+	color: #303030;
+	line-height: 60px;
+
+}
+.social-media ul li{
+	display: inline-block;
+	}
+.social-media{
+	padding-left: 250px;
+	padding-top: 20px;
+	
+}
+
+
+.fb{
+	max-width: 20%;
+	min-height: 230%;
+	border-radius: 50%;
+	
+}
+.in{
+	max-width: 25%;
+	min-height: 25%;
+	border-radius: 40%;
+
+
+}
+.insta{
+	max-width: 25%;
+	min-height: 25%;
+	border-radius: 40%;
+}
+.call{
+	max-width: 25%;
+	min-height: 25%;
+	border-radius: 40%;
+}
